@@ -9,7 +9,7 @@ description: >
   This site is dedicated to work on extracting process-structure linkages for the
   electrochemical evolution of tungsten-oxide-hydrate layers on a tungsten wire surface.
 baseurl: "/MIC-Tungsten-Nanowires" # replace ``/research-pages`` with the name of the parents repository
-url: "jallen30gt.github.io" # replate ``Materials-Informatics-Lab`` with your Github username
+url: "materials-informatics-class-fall2014.github.io # replate ``Materials-Informatics-Lab`` with your Github username
 twitter_username: twitterhandle
 disqus: jallen30gt
 
